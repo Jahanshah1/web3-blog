@@ -23,5 +23,7 @@ Featured posts page
 - viewing posts 
 - getting posts count 
 
+### The smart contract has been deployed but the front end is still under progress. The demo will be up and running soon!
+
 ## contract address (ropsten) 
 0x0069f533381376e712da94c22ebd67ff3469dc29
