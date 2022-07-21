@@ -6,7 +6,17 @@ A web3 decentralised blogging/posting app with complete anonymity
 ## Purpose 
 There are many centralizd platforms for blog posting but in order to access them you need to input your personal information which is then  stored in a centralized database and can be used against you or be breached by a third party, but Web3Blog provides complete anonimity and resistance against cencorship with a friendly UI.
 
-## Screenshots/preview 
+## Screenshots/preview
+![main page](https://user-images.githubusercontent.com/92823408/180126815-acaa050a-331d-4169-be8e-e4c1c9726bf7.jpeg)
+main page 
+![Home page](https://user-images.githubusercontent.com/92823408/180126870-d326a1f4-8821-45ed-84b5-9f604a7202f0.jpeg)
+page where you can create posts 
+![posts page](https://user-images.githubusercontent.com/92823408/180126921-f66278d1-2fe0-4ada-ab9f-b3c4263fa8de.jpeg)
+page ( where you can view all the posts )
+![posts page](https://user-images.githubusercontent.com/92823408/180127004-46b45c86-4e28-405d-88d5-af7f9c9c68f8.jpeg)
+![main posts page](https://user-images.githubusercontent.com/92823408/180127047-294fa6f1-3d2e-4154-b6c5-9bd7ca9742c1.jpeg)
+Featured posts page 
+
 
 ## Features
 - Creating posts 
